@@ -1,0 +1,1 @@
+readme for mastering orchestration technologies as k8

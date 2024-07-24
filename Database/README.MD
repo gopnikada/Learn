@@ -1,0 +1,1 @@
+readme for mastering advanced SQL and noSQL topics
