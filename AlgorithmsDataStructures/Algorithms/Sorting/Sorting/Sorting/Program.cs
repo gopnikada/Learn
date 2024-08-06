@@ -12,7 +12,7 @@
             //sorted = InsertionSort.Sort(array);
 
             //recursive sortings
-            sorted = MergeSort.MergeRecursevely(array);
+            sorted = QuickSort.Sort(array);
 
             Console.WriteLine(1);
         }
