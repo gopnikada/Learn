@@ -12,9 +12,9 @@
             //sorted = InsertionSort.Sort(array);
 
             //recursive sortings
-            sorted = CountingSort.Sort(array);
+            sorted = RadixSort.Sort(array);
 
-            Console.WriteLine(1);
+             Console.WriteLine(1);
         }
     }
 }
