@@ -12,7 +12,7 @@
             //sorted = InsertionSort.Sort(array);
 
             //recursive sortings
-            sorted = Heapsort.Sort(array);
+            sorted = CountingSort.Sort(array);
 
             Console.WriteLine(1);
         }
